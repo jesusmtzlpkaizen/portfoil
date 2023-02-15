@@ -1,0 +1,11 @@
+div {
+    background-color: rgb(41, 40, 40);
+    color: rgb(134, 181, 181);
+    justify-content: flex-end;
+    position: fixed;
+}
+
+h2 {
+    color: white;
+    
+}
